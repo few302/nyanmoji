@@ -1,4 +1,5 @@
-# NyanMoji 🐱
+# <img width="40" height="40" alt="f5055e85-b2f1-4f23-8052-bdcd490ef0ef2" src="https://github.com/user-attachments/assets/d7177a64-2685-4b3c-b939-ac6e6777bcfc" /> <img width="94.1" height="35.3" alt="logo" src="https://github.com/user-attachments/assets/49e32aa1-4824-4ffa-82ba-a810e571d5b4" /> 
+**NyanMoji** / 颜文字输入法
 
 > ✨ 由专属颜文字小精灵「喵符」(Nyafu) 为您倾情呈现！✨
 
@@ -21,6 +22,13 @@
 3. 安装依赖，在终端里敲下：
    ```bash
    pip install -r requirements.txt
+### 方法二：通过下载exe安装包使用
+
+1. 打开 https://github.com/few302/nyanmoji/releases
+2. 选择版本号最新（Latest）的版本
+3. 选择 `Assets` 中的 `Nyanmoji.exe` 下载
+4. 下载完成后，双击运行
+
 ## 🐱 后续更新与开发计划
 
 · 制作喵符在不同情境下的颜文字反馈表情包（开心、摸鱼、加载中...）
