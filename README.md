@@ -1,4 +1,4 @@
-# <img width="40" height="40" alt="f5055e85-b2f1-4f23-8052-bdcd490ef0ef2" src="https://github.com/user-attachments/assets/d7177a64-2685-4b3c-b939-ac6e6777bcfc" /> <img width="94.1" height="35.3" alt="logo" src="https://github.com/user-attachments/assets/49e32aa1-4824-4ffa-82ba-a810e571d5b4" /> 
+# <img width="50" height="50" alt="f5055e85-b2f1-4f23-8052-bdcd490ef0ef2" src="https://github.com/user-attachments/assets/d7177a64-2685-4b3c-b939-ac6e6777bcfc" /> <img width="141.5" height="52.95" alt="logo" src="https://github.com/user-attachments/assets/49e32aa1-4824-4ffa-82ba-a810e571d5b4" /> 
 **NyanMoji** / 颜文字输入法
 
 > ✨ 由专属颜文字小精灵「喵符」(Nyafu) 为您倾情呈现！✨
